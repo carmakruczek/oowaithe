@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chiasheeme.patatamonkey.com/sitemap.xml
